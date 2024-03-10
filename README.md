@@ -17,7 +17,7 @@
 
 - Be advised that the printing statement for the array with 10000 values is commented. To see it values, make sure your pc is built for this runtime and uncomment it with caution.
 
-## [Merge Sort - HeapSort- QuickSort](MergeSort_HeapSort_QuickSort.java) 
+## [MergeSort - HeapSort- QuickSort](MergeSort_HeapSort_QuickSort.java) 
 - This Java program exemplifies the Merge Sort - HeapSort- QuickSort algorithm through a series of test cases
 - N = 32
   - Worst Case
@@ -29,7 +29,9 @@
   - Average Case
 - N = 1000
   - Average Case
-- I tracked the number of comparisons that each algorithm does and here below is what I got:
+- I tracked the 
+  - Number of comparisons in each algorithm
+  - Time it took to compile
 
 ## Calculations
 ![](Table.png)

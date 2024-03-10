@@ -32,4 +32,4 @@
 - I tracked the number of comparisons that each algorithm does and here below is what I got:
 
 ## Calculations
-[](Table.png)
+![](Table.png)
